@@ -1,0 +1,5 @@
+- implement positional parameters as arguments
+- implement a /quit command to exit the REPL
+- add error handling for invalid commands
+- add a help command to display available commands
+- add logging
